@@ -2,4 +2,4 @@
 
 
 
-![Storage Types](images/storagetypes.png)
+![Storage Types](images/storage_classes.png)
